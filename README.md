@@ -32,13 +32,13 @@ FUTURE_DS_02/
 
 ### 1️ Campaign Performance Overview  
 KPIs (Spend, Impressions, Clicks, Approvals), Trend over Time, Spend by Campaign.  
-![Campaign Performance Overview](screenshot1.png)
+![Campaign Performance Overview](Screenshot1.png)
 
 ---
 
 ### 2️ ROI & Spend Analysis  
 Scatter plot of Spend vs Conversions, ROI % by Campaign, CPC Trend over Time.  
-![ROI & Spend Analysis](screenshot2.png)
+![ROI & Spend Analysis](Screenshot2.png)
 
 ---
 
